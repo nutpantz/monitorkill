@@ -2,4 +2,4 @@ lxqt alwys hangs monotor config. so this kills it and restasrtds it. work on deb
 
 warning
 !!! useing this could start ww3    
-warning this
+warning
